@@ -1,0 +1,319 @@
+{
+    "name": "Anees Nazeer",
+    "contact": {
+        "email": "[mailtoanees2000@gmail.com]",
+        "phone": "7994702714",
+        "address": "Veliyil Veedu, 12 Muri, Thejas Nagar, 94 Thattamala"
+    },
+    "headline": "Lead Developer | Full Stack Developer | MERN Stack | React.js | Node.js | REST APIs | MongoDB | Next.js |",
+    "profile": "I'm a versatile full-stack developer with hands-on experience across the software development lifecycle, from designing responsive user interfaces and building scalable backend services to database management, testing, debugging, optimization, and deployment. With professional experience in MERN stack development and leadership responsibilities, I focus on building reliable, maintainable, and business-oriented web applications that solve real-world problems. I enjoy taking ownership of development challenges, improving application quality, and working collaboratively to deliver effective software solutions.",
+    "professionalSummary": "Full Stack Developer with strong experience in the MERN stack and practical expertise in developing modern web applications from frontend to backend. Experienced in React.js, Redux, React Query, Node.js, Express.js, REST APIs, MongoDB, Mongoose, SQL, HTML, CSS, JavaScript, Material UI, Tailwind CSS, Bootstrap, and Git. Currently working as a Lead Developer at Aspire and Tact, with previous experience as a MERN Stack Developer at VIPAR and Full Stack Developer Intern at SoftZane Solutions. Experienced in application development, API development, database management, troubleshooting, testing, performance optimization, and deployment.",
+    "careerHighlights": [
+        "Currently working as a Lead Developer at Aspire and Tact, taking responsibility for full-stack application development and technical implementation.",
+        "Strong hands-on experience with the MERN stack and modern JavaScript-based application development.",
+        "Experienced in building responsive and user-focused interfaces using React.js, Redux, React Query, Material UI, Tailwind CSS, and Bootstrap.",
+        "Experienced in developing backend services and REST APIs using Node.js and Express.js.",
+        "Hands-on experience with MongoDB, Mongoose, and SQL for application data management.",
+        "Experienced in debugging, testing, troubleshooting, and performance optimization of web applications.",
+        "Contributed to successful application development and deployment while working collaboratively with development teams.",
+        "Experience working on business-focused platforms including ecommerce and business management applications."
+    ],
+    "experience": [
+        {
+            "company": "Aspire and Tact",
+            "type": "Full-time",
+            "positions": [
+                {
+                    "title": "Lead Developer",
+                    "startDate": "2024-05",
+                    "endDate": "Present",
+                    "skills": [
+                        "React.js",
+                        "Next.js",
+                        "Redux",
+                        "React Query",
+                        "Node.js",
+                        "Express.js",
+                        "MongoDB",
+                        "Mongoose",
+                        "SQL",
+                        "REST API",
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Material UI",
+                        "Tailwind CSS",
+                        "Bootstrap 5",
+                        "Git",
+                        "Database Management",
+                        "Testing",
+                        "Bug Fixing",
+                        "Performance Optimization"
+                    ],
+                    "summary": "Working as a Lead Developer with responsibility for full-stack application development, technical implementation, problem solving, and delivering reliable web solutions using modern JavaScript technologies.",
+                    "responsibilities": [
+                        "Lead and contribute to the development of full-stack web applications using the MERN stack.",
+                        "Design and develop responsive and maintainable frontend interfaces using React.js and supporting UI technologies.",
+                        "Develop backend services and REST APIs using Node.js and Express.js.",
+                        "Work with MongoDB, Mongoose, and SQL for effective application data management.",
+                        "Handle application testing, debugging, troubleshooting, and bug fixing throughout the development lifecycle.",
+                        "Identify opportunities for application performance optimization and code improvement.",
+                        "Work with Git for source code management and collaborative development.",
+                        "Apply clean and maintainable coding practices while working across frontend and backend development."
+                    ],
+                    "technologies": [
+                        "React.js",
+                        "Redux",
+                        "React Query",
+                        "Node.js",
+                        "Express.js",
+                        "MongoDB",
+                        "Mongoose",
+                        "SQL",
+                        "REST API",
+                        "JavaScript",
+                        "HTML",
+                        "CSS",
+                        "Material UI",
+                        "Tailwind CSS",
+                        "Bootstrap 5",
+                        "Git"
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "VIPAR",
+            "type": "Full-time",
+            "positions": [
+                {
+                    "title": "MERN Stack Developer",
+                    "startDate": "2023-12",
+                    "endDate": "2024-12",
+                    "skills": [
+                        "React.js",
+                        "Redux",
+                        "Node.js",
+                        "Express.js",
+                        "MongoDB",
+                        "Mongoose",
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Material UI",
+                        "REST API",
+                        "Database Management",
+                        "Testing",
+                        "Bug Fixing",
+                        "Performance Optimization"
+                    ],
+                    "summary": "Worked as a MERN Stack Developer, contributing to the development and maintenance of full-stack web applications and supporting the complete development lifecycle from API development and database management to testing, optimization, and deployment.",
+                    "responsibilities": [
+                        "Developed and maintained full-stack web applications using the MERN stack.",
+                        "Built and integrated REST APIs using Node.js and Express.js.",
+                        "Worked with MongoDB and Mongoose for application data management.",
+                        "Developed responsive frontend interfaces using React.js, Redux, JavaScript, HTML, CSS, and Material UI.",
+                        "Performed testing, debugging, bug fixing, and troubleshooting to improve application reliability.",
+                        "Worked on performance optimization and code improvements.",
+                        "Wrote clean and sustainable code for functional web applications.",
+                        "Collaborated with a small development team to successfully host and deploy web applications."
+                    ],
+                    "technologies": [
+                        "React.js",
+                        "Redux",
+                        "Node.js",
+                        "Express.js",
+                        "MongoDB",
+                        "Mongoose",
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "Material UI",
+                        "REST API"
+                    ]
+                }
+            ]
+        },
+        {
+            "company": "SoftZane Solutions",
+            "type": "Internship",
+            "positions": [
+                {
+                    "title": "Full Stack Developer (Intern)",
+                    "startDate": "2022-05",
+                    "endDate": "2022-11",
+                    "skills": [
+                        "MERN Stack Development",
+                        "React.js",
+                        "JavaScript",
+                        "HTML",
+                        "CSS",
+                        "Problem Solving",
+                        "Troubleshooting"
+                    ],
+                    "summary": "Worked as a Full Stack Developer Intern at a service-based software company, gaining practical experience in MERN stack development, UI development, troubleshooting, and solving application-related problems.",
+                    "responsibilities": [
+                        "Worked on MERN stack development as part of software application projects.",
+                        "Created HTML templates and developed JavaScript and CSS files for UI modules.",
+                        "Worked on frontend development and UI implementation.",
+                        "Applied problem-solving and troubleshooting skills to address development issues.",
+                        "Gained practical experience working in a professional software development environment."
+                    ],
+                    "technologies": [
+                        "MERN Stack",
+                        "React.js",
+                        "JavaScript",
+                        "HTML",
+                        "CSS"
+                    ]
+                }
+            ]
+        }
+    ],
+    "education": [
+        {
+            "institution": "Shree Vidhyadhiraja College of Arts",
+            "degree": "Bachelor of Computer Application",
+            "field": "Computer Applications",
+            "duration": "2018 - 2021"
+        }
+    ],
+    "projects": [
+        {
+            "name": "PROchure",
+            "title": "Business Management & Customer Engagement Platform",
+            "duration": "11/2021 - Present",
+            "url": "https://www.prochure.in",
+            "shortDescription": "A comprehensive web and mobile application focused on streamlining business operations, communication, marketing, management, and customer engagement.",
+            "description": "PROchure is a comprehensive business-focused web and mobile application designed to bring important business operations and customer engagement activities into a streamlined digital platform. The application focuses on improving communication, supporting marketing activities, and simplifying management-related workflows. Working across both frontend and backend technologies, the project demonstrates practical experience in developing and maintaining a complete full-stack application.",
+            "projectHighlights": [
+                "Developed a comprehensive web and mobile business application using modern frontend and backend technologies.",
+                "Built responsive user interfaces with React.js and supporting UI technologies.",
+                "Implemented application functionality using React Query and Redux for effective frontend state and data management.",
+                "Developed backend functionality and REST APIs using Node.js and Express.js.",
+                "Worked with MongoDB and SQL for application data management.",
+                "Focused on creating a clean, maintainable, and user-friendly application experience.",
+                "Worked across business communication, marketing, management, and customer engagement use cases."
+            ],
+            "technologies": [
+                "React.js",
+                "React Query",
+                "Redux",
+                "Node.js",
+                "Express.js",
+                "REST API",
+                "MongoDB",
+                "SQL",
+                "HTML",
+                "CSS",
+                "Tailwind CSS",
+                "Bootstrap 5",
+                "Git"
+            ]
+        },
+        {
+            "name": "VIPAR",
+            "title": "Ecommerce Platform",
+            "duration": "12/2022 - Present",
+            "url": "https://www.vipar.in",
+            "shortDescription": "An ecommerce platform designed to provide a streamlined and organized approach to selling and managing products.",
+            "description": "VIPAR is an ecommerce platform designed to simplify product selling and management through an organized digital platform. The application uses product buckets and dubs to provide structured product categorization and management, helping create a more streamlined approach to handling ecommerce products and operations.",
+            "projectHighlights": [
+                "Developed an ecommerce platform focused on streamlined product selling and management.",
+                "Implemented an organized product structure using product buckets and dubs.",
+                "Focused on simplifying product categorization and management workflows.",
+                "Worked across frontend and backend development as part of the application's full-stack implementation.",
+                "Applied modern web development practices to create a structured and maintainable ecommerce solution."
+            ],
+            "technologies": [
+                "React.js",
+                "Redux",
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "Mongoose",
+                "REST API",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Material UI"
+            ]
+        }
+    ],
+    "technicalSkills": {
+        "frontend": [
+            "React.js",
+            "React Hooks",
+            "Redux",
+            "React Query",
+            "JavaScript (ES6+)",
+            "HTML5",
+            "CSS3",
+            "Material UI (MUI)",
+            "Tailwind CSS",
+            "Bootstrap 5",
+            "Responsive Web Design",
+            "State Management"
+        ],
+        "backend": [
+            "Node.js",
+            "Express.js",
+            "REST API / RESTful APIs",
+            "CRUD Operations",
+            "JSON",
+            "API Integration"
+        ],
+        "database": [
+            "MongoDB",
+            "Mongoose",
+            "SQL",
+            "Database Management",
+            "Data Modeling"
+        ],
+        "development": [
+            "Full Stack Development",
+            "MERN Stack Development",
+            "API Development",
+            "Testing",
+            "Debugging",
+            "Bug Fixing",
+            "Troubleshooting",
+            "Performance Optimization",
+            "Deployment",
+            "Technical Leadership"
+        ],
+        "tools": [
+            "Git",
+            "GitHub",
+            "npm",
+            "Postman",
+            "VS Code",
+            "Chrome DevTools"
+        ]
+    },
+    "professionalStrengths": [
+        "Full Stack Development",
+        "Technical Problem Solving",
+        "Application Development",
+        "API Development",
+        "Database Management",
+        "Debugging and Troubleshooting",
+        "Performance Optimization",
+        "Clean and Maintainable Code",
+        "Team Collaboration",
+        "Technical Leadership"
+    ],
+    "certificate": [
+        {
+            "title": "Certificate of Completion for MERN Stack",
+            "issued_by": "SoftZane Solutions"
+        }
+    ],
+    "languages": [
+        "English",
+        "Malayalam",
+        "Tamil"
+    ],
+    "portfolio": "https://aneesnazeer.github.io/my-portfolio/",
+    "careerObjective": "To contribute as a Lead Developer or Full Stack Developer in a growth-oriented organization where I can apply my MERN stack expertise, full-stack development experience, problem-solving abilities, and technical leadership skills to build high-quality software products while continuously expanding my technical knowledge."
+}
